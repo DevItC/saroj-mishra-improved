@@ -1,0 +1,16 @@
+.expclass1{
+	margin-left: 10%; 
+	margin-right: 10%; 
+	text-align: justify;
+}
+
+.expclass1 h1{
+	font-size: 1.2em;
+	color: black;
+	font-weight: 800;
+	opacity: 0.8;
+}
+
+.expclass1 p{
+	font-weight: 600;
+}
