@@ -22,6 +22,10 @@
 .expclass1 p{
 	font-weight: 600;
 }
+.expclass1 span{
+	font-weight: 600;
+	color: #201b1b;
+	font-weight: 0.6em;}
 
 .newclass strong{
 	font-weight: 600 !important;
