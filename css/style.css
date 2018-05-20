@@ -14,3 +14,18 @@
 .expclass1 p{
 	font-weight: 600;
 }
+
+.newclass strong{
+	font-weight: 600 !important;
+	color: black;
+}
+.newclass { 
+	font-weight: 500;
+	color: #201b1b;
+}
+
+.newclass2 span{
+	font-weight: 600;
+	color: #201b1b;
+	font-weight: 1.1em;
+}
