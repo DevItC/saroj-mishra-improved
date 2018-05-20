@@ -11,6 +11,14 @@
 	opacity: 0.8;
 }
 
+.expclass1 h2{
+	font-size: 1.35em;
+	text-decoration: underline;
+	margin-bottom: 1.5%;
+	margin-top: 4%;
+	font-weight: 800;
+}
+
 .expclass1 p{
 	font-weight: 600;
 }
@@ -28,4 +36,8 @@
 	font-weight: 600;
 	color: #201b1b;
 	font-weight: 1.1em;
+}
+
+.newclass3 {
+	font-size: 1.2em;
 }
